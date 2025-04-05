@@ -4,9 +4,16 @@
 - **Account info**: Email, phone number
 - **Messages**: Content and metadata (who sent/received and when)
 
-## 2. How Long We Keep It
-- **All messages**: 30 days (unless flagged)
-- **Flagged messages**: 90 days (for violation investigations)
+## 2. Data Retention
+### Message Storage:
+- **Active accounts**:
+  - All messages stored until number deletion
+  - Commercial/personal treated equally
+- **After deletion**:
+  - 30-day grace period before permanent erasure
+- **Flagged messages**:
+  - Minimum 90 days retention for violations
+  - Applies even if account/number is deleted
 
 ## 3. Your Rights
 - **See your data**: Email magicindustries.dev@proton.me
