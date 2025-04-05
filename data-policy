@@ -1,23 +1,27 @@
 # Magic SMS Data Policy
 
-## 1. Data Collection
-### Categories Processed:
-- Account registration data
-- Message content and metadata
-- Device information
+## 1. What We Store
+- **Account info**: Email, phone number
+- **Messages**: Content and metadata (who sent/received and when)
 
-## 2. Legal Basis
-### Processing Grounds:
-- Article 6(1)(b) GDPR (contractual necessity)
-- Section 120(c) CCPA (business purposes)
+## 2. How Long We Keep It
+- **All messages**: 30 days (unless flagged)
+- **Flagged messages**: 90 days (for violation investigations)
 
-## 3. Data Subject Rights
-### User Options:
-- Access requests via magicindustries.dev@proton.me
-- Erasure limited by retention schedule
+## 3. Your Rights
+- **See your data**: Email magicindustries.dev@proton.me
+- **Delete your data**: Same email (except when investigating violations)
+- **Opt-out**: Reply STOP to any message
 
-## 4. Law Enforcement
-### Request Requirements:
-- Valid jurisdiction
-- Properly executed warrant/subpoena
-- Submit to magicindustries.dev@proton.me
+## 4. When We Share Data
+Only if:
+- Required by law (with valid warrant)
+- Investigating violations (ToS section 2)
+- Preventing imminent harm
+
+## 5. How We Protect You
+- Automatic scanning for:
+  - Spam
+  - Illegal content
+  - Policy violations
+- Immediate suspension for violations (no refunds)
